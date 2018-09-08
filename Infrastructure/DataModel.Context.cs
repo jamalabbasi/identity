@@ -22,14 +22,23 @@ namespace Infrastructure
         public MyTestingDbEntities(string conString)
             : base(conString)
         {
+            //this.Configuration.LazyLoadingEnabled = false;
             var ensureDLLIsCopied = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
         }
 
+        public static MyTestingDbEntities Create()
+        {
+            return new MyTestingDbEntities(ConnectionStringManager.ConnectionString);
+        }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
         }
     
         public virtual DbSet<Student> Students { get; set; }
+        public virtual DbSet<AspNetRole> AspNetRoles { get; set; }
+        public virtual DbSet<AspNetUserClaim> AspNetUserClaims { get; set; }
+        public virtual DbSet<AspNetUserLogin> AspNetUserLogins { get; set; }
+        public virtual DbSet<AspNetUser> AspNetUsers { get; set; }
     }
 }

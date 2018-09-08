@@ -7,4 +7,8 @@ c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastru
 c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
 c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\obj\Debug\Infrastructure.dll
 c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache

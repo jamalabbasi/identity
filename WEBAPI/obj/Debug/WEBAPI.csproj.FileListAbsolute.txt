@@ -79,3 +79,8 @@ C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\bi
 C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\obj\Debug\WEBAPI.csprojResolveAssemblyReference.cache
 C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\obj\Debug\WEBAPI.dll
 C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\obj\Debug\WEBAPI.pdb
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\bin\AutoMapper.dll
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\bin\System.ValueTuple.dll
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\bin\AutoMapper.pdb
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\bin\AutoMapper.xml
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\WEBAPI\bin\System.ValueTuple.xml

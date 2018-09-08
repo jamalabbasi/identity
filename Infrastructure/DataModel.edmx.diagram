@@ -6,6 +6,14 @@
     <edmx:Diagrams>
       <Diagram DiagramId="4512bc2b65d24e808ebfc50d5c64e3cc" Name="Diagram1">
         <EntityTypeShape EntityType="MyTestingDbModel.Student" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyTestingDbModel.AspNetRole" Width="1.5" PointX="0.75" PointY="5.375" />
+        <EntityTypeShape EntityType="MyTestingDbModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="5.875" />
+        <EntityTypeShape EntityType="MyTestingDbModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="8.625" />
+        <EntityTypeShape EntityType="MyTestingDbModel.AspNetUser" Width="1.5" PointX="3" PointY="0.75" />
+        <AssociationConnector Association="MyTestingDbModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="MyTestingDbModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="MyTestingDbModel.FK_AspNetUsers_School" />
+        <AssociationConnector Association="MyTestingDbModel.AspNetUserRoles" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
