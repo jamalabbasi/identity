@@ -1,0 +1,14 @@
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\UsuageWorld.exe.config
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\UsuageWorld.exe
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\UsuageWorld.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\Repository.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\Infrastructure.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\EntityFramework.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\Repository.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\Infrastructure.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\EntityFramework.xml
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\obj\Debug\UsuageWorld.csprojResolveAssemblyReference.cache
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\obj\Debug\UsuageWorld.exe
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\obj\Debug\UsuageWorld.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\UsuageWorld\bin\Debug\EntityFramework.SqlServer.xml

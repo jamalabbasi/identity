@@ -1,0 +1,6 @@
+c:\users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\JAM\bin\Debug\JAM.exe.config
+c:\users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\JAM\bin\Debug\JAM.exe
+c:\users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\JAM\bin\Debug\JAM.pdb
+c:\users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\JAM\obj\Debug\JAM.csprojResolveAssemblyReference.cache
+c:\users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\JAM\obj\Debug\JAM.exe
+c:\users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\JAM\obj\Debug\JAM.pdb

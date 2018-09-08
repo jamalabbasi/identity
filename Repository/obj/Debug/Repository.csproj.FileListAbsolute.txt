@@ -1,0 +1,12 @@
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\Repository.dll.config
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\Repository.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\Repository.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\EntityFramework.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\Infrastructure.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\Infrastructure.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\EntityFramework.xml
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\obj\Debug\Repository.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Repository\obj\Debug\Repository.pdb

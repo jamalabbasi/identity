@@ -1,0 +1,10 @@
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\Infrastructure.dll.config
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\Infrastructure.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\Infrastructure.pdb
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\EntityFramework.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\EntityFramework.xml
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\obj\Debug\Infrastructure.dll
+c:\Users\abbasi sb fms walay\documents\visual studio 2015\Projects\JAM\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Abbasi sb FMS walay\Documents\Visual Studio 2015\Projects\JAM\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
